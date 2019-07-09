@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns="http://www.oxygenxml.com/ns/webhelp/toc" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Inhaltsverzeichnis</span></title>
+   <topic href="grosse_dateien_via_freigabelink_verschicken.html" data-id="grosse_dateien_via_freigabelink_verschicken">
+      <title>Große Dateien via Freigabelink verschicken</title>
+      <topicmeta></topicmeta>
+      <topic href="link-ueber-cloud.html" data-id="LinkViaCloud">
+         <title>Link über Cloud erstellen</title>
+         <topicmeta></topicmeta>
+         <topic href="ueber_den_browser.html" data-id="ueber_den_browser">
+            <title>Über den Browser</title>
+            <topicmeta></topicmeta>
+         </topic>
+         <topic href="ueber_die_gmx_app.html" data-id="ueber_die_gmx_app">
+            <title>Über die GMX App</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+      <topic href="Link-in-EMail-erstellen.html" data-id="LinkViaEmail">
+         <title>Link über E-Mail erstellen</title>
+         <topicmeta></topicmeta>
+         <topic href="ueber_den_browser_0.html" data-id="ueber_den_browser_0">
+            <title>Über den Browser</title>
+            <topicmeta></topicmeta>
+         </topic>
+         <topic href="ueber_die_gmx_app_0.html" data-id="ueber_die_gmx_app_0">
+            <title>Über die GMX App</title>
+            <topicmeta></topicmeta>
+         </topic>
+      </topic>
+   </topic>
+</toc>

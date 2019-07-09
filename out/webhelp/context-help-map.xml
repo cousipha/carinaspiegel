@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="grosse_dateien_via_freigabelink_verschicken"
+               path="grosse_dateien_via_freigabelink_verschicken.html"/>
+   <appContext helpID="LinkViaCloud" path="link-ueber-cloud.html"/>
+   <appContext helpID="ueber_den_browser" path="ueber_den_browser.html"/>
+   <appContext helpID="ueber_die_gmx_app" path="ueber_die_gmx_app.html"/>
+   <appContext helpID="LinkViaEmail" path="Link-in-EMail-erstellen.html"/>
+   <appContext helpID="ueber_den_browser_0" path="ueber_den_browser_0.html"/>
+   <appContext helpID="ueber_die_gmx_app_0" path="ueber_die_gmx_app_0.html"/>
+</map>

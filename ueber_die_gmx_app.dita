@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ueber_die_gmx_app">
+    <title>Über die GMX App</title>
+    <body>
+	<section>
+            <title>Vorbereitung - Wenn die Datei noch nicht in die Cloud geladen wurde</title>
+            <ol>
+                <li>Klicken Sie im Mitgliederbereich in der unteren Leiste auf „Cloud“.</li>
+				<li>Klicken Sie auf den grünen, runden Button mit dem + Zeichen und wählen Sie anschließend "Dateien hochladen".</li>
+                <li>Wählen Sie nun durch gedrückt halten eine oder mehrere Dateien aus und klicken Sie auf "Öffnen". Im nächsten Schritt können Sie den Ordner auswählen, in den die Dateien geladen werden sollen und den Vorgang mit Klick auf "Einfügen" bestätigen.</li>
+                <li>Die Datei wird nun im Hintergrund hochgeladen.</li>       
+            </ol>
+        </section>
+        <section>
+            <title>Vorgehensweise</title>
+        <ol>
+            <li>Klicken Sie im Mitgliederbereich in der unteren Leiste auf „Cloud“, falls Sie sich noch nicht hier befinden.</li>
+            <li>Wählen Sie die Datei(en) aus, die Sie freigeben möchten und halten Sie sie gedrückt. Der runde, grüne Button ändert sein Symbol von einem + zu einem umgedrehten v </li>
+            <li>Klicken Sie auf diesen Freigeben-Button.<image href="Screenshots/app-datei-freigeben.jpg" height="300px" placement="break">
+            </image></li>
+            <li>Es erscheint ein Fenster mit geeigneten Apps über die Sie die Datei freigeben können. Ist die Datei (oder alle Dateien zusammen) größer als 50 MB, so wird in diesem Fenster ein Warnhinweis sowie ein generierter Freigabelink und die Freigabeeinstellungen angezeigt.<image href="Screenshots/app-app-uebersicht.jpg" height="300px" placement="break">
+            </image></li>
+            <li>Nehmen Sie nun gegebenenfalls Freigabeeinstellungen vor.
+               <ul>
+                <li>Klicken Sie hierfür auf „Freigabeeinstellungen“.</li>
+                <li>Möchten Sie die Freigabe schützen, setzen Sie einen Haken bei „Mit Passwort schützen“ und geben nun ein Passwort mit mindestens 5 Zeichen ein.</li>
+                <li>Um die Gültigkeit der Freigabedauer einzuschränken, wählen Sie „Freigabedauer ändern“ aus und legen die Gültidkeitsdauer auf 1 Woche, 1 Monat oder 1 Jahr fest.</li>
+                   <li>Haben Sie alles eingestellt, klicken Sie auf „Speichern“ und Sie gelangen zurück zum Fenster mit der App-Übersicht.</li>
+               </ul>
+            </li>
+            <li>Um den Freigabelink direkt mit Ihren Kontakten zu teilen, klicken Sie auf den Button mit dem GMX Symbol.</li>
+            <li>Es öffnet sich die E-Mail Ansicht der App mit einer E-Mail und einem vorgeschriebenen Text der u.a. Freigabelink und Ablaufdatum enthält.<image href="Screenshots/fertige-email.jpg" height="300px" placement="break">
+            </image></li>
+            <li>Geben Sie den Empfänger der E-Mail an und ergänzen Sie ggfs. weiteren Text.</li>   
+             <li>Klicken Sie auf den „Senden“ Button mit dem Pfeil, um die E-Mail abzuschicken.</li>            
+        </ol>
+        </section>
+    </body>
+</topic>

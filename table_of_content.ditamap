@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Inhaltsverzeichnis</title>
+    <topicref href="grosse_dateien_via_freigabelink_verschicken.dita">
+        <topicref href="link-ueber-cloud.dita">
+            <topicref href="ueber_den_browser.dita"/>
+            <topicref href="ueber_die_gmx_app.dita"/>
+        </topicref>
+        <topicref href="Link-in-EMail-erstellen.dita">
+            <topicref href="ueber_den_browser_0.dita"/>
+            <topicref href="ueber_die_gmx_app_0.dita"/>
+        </topicref>
+    </topicref>
+</map>

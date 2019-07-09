@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ueber_den_browser_0">
+    <title>Über den Browser</title>
+    <body>
+        <section>
+            <title>Vorbereitung - Wenn die Datei noch nicht in die Cloud geladen wurde</title>
+            <ol>
+                <li>Klicken Sie im Mitgliederbereich in der oberen Leiste auf „Cloud“.</li>
+                <li>Wählen Sie auf Ihrer Festplatte eine oder mehrere Dateien aus die Sie freigeben möchten und ziehen Sie diese in die Cloud. Alternativ können Sie links auf den grünen Button "Hochladen" klicken und Dateien oder Ordner hochladen auswählen.</li>
+                <li>Nach erfolgreichem Upload können Sie das kleine Upload-Fenster schließen und anschließend zurück in die E-Mail Ansicht gehen.</li>       
+            </ol>
+        </section>
+        <section>
+            <title>Vorgehensweise</title>
+        <ol>
+            <li>Klicken Sie im Mitgliederbereich in der linken Seitenleiste auf "E-Mail" und dann auf den grünen "E-Mail schreiben"-Button.</li>
+            <li>Geben Sie den Empfänger der E-Mail an und schreiben Sie ggfs. einen Text. Auf Wunsch können Sie auch weitere Dateien in der E-Mail anhängen.</li>
+            <li>Klicken Sie in der unteren Leiste auf "Anhänge hinzufügen" bzw. auf das Büroklammer Zeichen oberhalb des Textfeldes. Es erscheint ein Auswahlfeld bei dem Sie zwischen "Anhang von Festplatte hinzufügen" und "Anhang aus Cloud hinzufügen" wählen können.</li>
+					<li>Klicken Sie auf "Anhang aus Cloud hinzufügen".</li>
+				    <li>Wählen Sie eine oder mehrere Dateien aus die Sie freigeben möchten. In der Menüleiste können Sie nun auf "Freigeben" klicken.<image href="Screenshots/browser-datei-freigeben.jpg" height="300px" placement="break">
+				    </image></li>
+            		<li>Es öffnet sich nun ein Fenster mit einem generierten Freigabelink sowie den Freigabeeinstellungen.</li>
+            		<li>Ist die Datei (oder alle Dateien zusammen) größer als 50 MB, so wird in diesem Fenster ein Warnhinweis angezeigt.</li>
+            		<li>Nehmen Sie nun gegebenenfalls Freigabeeinstellungen vor.
+               		<ul>
+                <li>Klicken Sie hierfür auf „Freigabeeinstellungen“.</li>
+                <li>Möchten Sie die Freigabe schützen, setzen Sie einen Haken bei „Mit Passwort schützen“ und geben nun ein Passwort mit mindestens 5 Zeichen ein.</li>
+                <li>Um die Gültigkeit der Freigabedauer einzuschränken, wählen Sie „Freigabedauer ändern“ aus und legen die Gültidkeitsdauer auf 1 Woche, 1 Monat oder 1 Jahr fest.</li>
+               		    <li>Haben Sie alles eingestellt, klicken Sie auf „Speichern“ und Sie gelangen zurück zum Freigabelink.<image href="Screenshots/browser-freigabeeinstellungen-1.jpg" height="300px" placement="break"></image></li>
+               		</ul></li>
+
+				    <li>Um den Freigabelink direkt mit Ihren Kontakten zu teilen, klicken Sie auf „Link per E-Mail versenden“.<image href="Screenshots/browser-link-per-email.jpg" height="300px" placement="break">
+				    </image></li>
+			<li>Der Link erscheint nun automatisch am Ende Ihrer E-Mail. Sie können ihn markieren und an die gewünschte Stelle ziehen.</li>
+             <li>Klicken Sie auf den „Senden“ Button, um die E-Mail abzuschicken.</li>      
+        </ol>
+        </section>
+    </body>
+</topic>

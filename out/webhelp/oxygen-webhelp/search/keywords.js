@@ -1,0 +1,9 @@
+var keywords=[{w:"Link",p:["p0","p3"]},{w:"\u00FCber",p:["p0","p3","p5","p6"]},{w:"E-Mail",p:["p0"]},{w:"erstellen",p:["p0","p3"]},{w:"Dateitransfer1",p:["p1"]},{w:"Gro\u00DFe",p:["p2"]},{w:"Dateien",p:["p2"]},{w:"via",p:["p2"]},{w:"Freigabelink",p:["p2"]},{w:"verschicken",p:["p2"]},{w:"Cloud",p:["p3"]},{w:"test",p:["p4"]},{w:"den",p:["p5"]},{w:"Browser",p:["p5"]},{w:"die",p:["p6"]},{w:"GMX",p:["p6"]},{w:"App",p:["p6"]}];
+var ph={};
+ph["p0"]=[0, 1, 2, 3];
+ph["p1"]=[4];
+ph["p2"]=[5, 6, 7, 8, 9];
+ph["p3"]=[0, 1, 10, 3];
+ph["p4"]=[11];
+ph["p5"]=[1, 12, 13];
+ph["p6"]=[1, 14, 15, 16];
